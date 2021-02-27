@@ -8,6 +8,7 @@ import com.jjp.dao.Users;
 public class UserTest {
 	public static void main(String[] args) {
 		UserDao a = new UserDaoImpl();
+		System.out.println("HELLOW WORLD");
 		/**
 		 * 添加数据
 		 */
