@@ -10,6 +10,8 @@ public class UserTest {
 		UserDao a = new UserDaoImpl();
 		System.out.println("HELLOW WORLD");
 		System.out.println("HELLOW WORLD");
+		System.out.println("HELLOW WORLD33");
+		
 		
 		/**
 		 * 添加数据
